@@ -1,0 +1,26 @@
+{
+  "0.1": {
+    "mean_regret": -1.8325331172291586,
+    "std_regret": 235.2733953161398,
+    "max_regret": 554.3753589198749,
+    "theoretical_bound": 2621.953327932417,
+    "exceed_count": 0,
+    "exceed_rate": 0.0
+  },
+  "0.05": {
+    "mean_regret": -1.8325331172291586,
+    "std_regret": 235.2733953161398,
+    "max_regret": 554.3753589198749,
+    "theoretical_bound": 2714.2644230145097,
+    "exceed_count": 0,
+    "exceed_rate": 0.0
+  },
+  "0.01": {
+    "mean_regret": -1.8325331172291586,
+    "std_regret": 235.2733953161398,
+    "max_regret": 554.3753589198749,
+    "theoretical_bound": 2920.5171528082114,
+    "exceed_count": 0,
+    "exceed_rate": 0.0
+  }
+}

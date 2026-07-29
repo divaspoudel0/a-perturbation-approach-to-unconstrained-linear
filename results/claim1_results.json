@@ -1,0 +1,8 @@
+{
+  "estimation_bias": 0.023259406699226003,
+  "max_estimator_norm_sq": 40.896153886109516,
+  "theoretical_bound_almost_sure": 100.0,
+  "expected_norm_sq": 6.450131837283659,
+  "expected_bound": 10.0,
+  "pablo_regret": 1541.1200773999542
+}
