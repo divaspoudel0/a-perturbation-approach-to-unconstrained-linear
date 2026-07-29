@@ -1,0 +1,86 @@
+{
+  "norm-oblivious": {
+    "0.5": {
+      "regret": 165.15172377735087,
+      "comparator_norm": 0.5,
+      "theoretical_scale": 1105.698727818581,
+      "theoretical_bound": 1106.698727818581,
+      "kappa": 2.23606797749979,
+      "regret_over_bound": 0.14922916203480438
+    },
+    "1.0": {
+      "regret": 160.49429899035144,
+      "comparator_norm": 1.0,
+      "theoretical_scale": 2307.2431020889007,
+      "theoretical_bound": 2308.2431020889007,
+      "kappa": 2.23606797749979,
+      "regret_over_bound": 0.06953093408796857
+    },
+    "2.0": {
+      "regret": 151.17944941635255,
+      "comparator_norm": 2.0,
+      "theoretical_scale": 4798.551960481547,
+      "theoretical_bound": 4799.551960481547,
+      "kappa": 2.23606797749979,
+      "regret_over_bound": 0.03149865876255342
+    },
+    "5.0": {
+      "regret": 123.23490069435613,
+      "comparator_norm": 5.0,
+      "theoretical_scale": 12578.920302838469,
+      "theoretical_bound": 12579.920302838469,
+      "kappa": 2.23606797749979,
+      "regret_over_bound": 0.009796159095423683
+    },
+    "10.0": {
+      "regret": 76.66065282436195,
+      "comparator_norm": 10.0,
+      "theoretical_scale": 26004.564844717992,
+      "theoretical_bound": 26005.564844717992,
+      "kappa": 2.23606797749979,
+      "regret_over_bound": 0.0029478557101955253
+    }
+  },
+  "norm-adaptive": {
+    "0.5": {
+      "regret": 165.15172377735087,
+      "comparator_norm": 0.5,
+      "theoretical_scale": 494.4835036074769,
+      "theoretical_bound": 495.4835036074769,
+      "kappa": 1.0,
+      "regret_over_bound": 0.33331427297766186
+    },
+    "1.0": {
+      "regret": 160.49429899035144,
+      "comparator_norm": 1.0,
+      "theoretical_scale": 1031.8304833776538,
+      "theoretical_bound": 1032.8304833776538,
+      "kappa": 1.0,
+      "regret_over_bound": 0.15539268212290633
+    },
+    "2.0": {
+      "regret": 151.17944941635255,
+      "comparator_norm": 2.0,
+      "theoretical_scale": 2145.9776754403247,
+      "theoretical_bound": 2146.9776754403247,
+      "kappa": 1.0,
+      "regret_over_bound": 0.0704150076387483
+    },
+    "5.0": {
+      "regret": 123.23490069435613,
+      "comparator_norm": 5.0,
+      "theoretical_scale": 5625.464176139812,
+      "theoretical_bound": 5626.464176139812,
+      "kappa": 1.0,
+      "regret_over_bound": 0.021902725554880327
+    },
+    "10.0": {
+      "regret": 76.66065282436195,
+      "comparator_norm": 10.0,
+      "theoretical_scale": 11629.594943618138,
+      "theoretical_bound": 11630.594943618138,
+      "kappa": 1.0,
+      "regret_over_bound": 0.006591292465775937
+    }
+  }
+}

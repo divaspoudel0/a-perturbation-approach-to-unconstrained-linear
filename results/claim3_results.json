@@ -1,0 +1,42 @@
+{
+  "0": {
+    "regret": -26076.21542767879,
+    "actual_path_length": 0.0,
+    "effective_diameter_M": 3.0,
+    "theoretical_bound_scale": 1127.0920271401408,
+    "theoretical_bound": 1127.0920271401408,
+    "regret_over_bound": -23.135835228862387
+  },
+  "20": {
+    "regret": -25893.874547141408,
+    "actual_path_length": 19.98999999998932,
+    "effective_diameter_M": 3.232767118227327,
+    "theoretical_bound_scale": 1757.7166746246612,
+    "theoretical_bound": 1757.7166746246612,
+    "regret_over_bound": -14.731540595227457
+  },
+  "50": {
+    "regret": -25400.157013659213,
+    "actual_path_length": 49.9749999999735,
+    "effective_diameter_M": 3.5921124347973565,
+    "theoretical_bound_scale": 2377.487936735983,
+    "theoretical_bound": 2377.487936735983,
+    "regret_over_bound": -10.683611311412458
+  },
+  "100": {
+    "regret": -24077.919964430137,
+    "actual_path_length": 99.949999999947,
+    "effective_diameter_M": 4.245585669744794,
+    "theoretical_bound_scale": 3273.759117005689,
+    "theoretical_bound": 3273.759117005689,
+    "regret_over_bound": -7.354823340347889
+  },
+  "200": {
+    "regret": -20279.349379257234,
+    "actual_path_length": 199.89999999989396,
+    "effective_diameter_M": 5.664066763320629,
+    "theoretical_bound_scale": 4973.794110892482,
+    "theoretical_bound": 4973.794110892482,
+    "regret_over_bound": -4.0772394126339035
+  }
+}

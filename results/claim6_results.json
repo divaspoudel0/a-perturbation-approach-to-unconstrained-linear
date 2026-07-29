@@ -1,0 +1,72 @@
+{
+  "0.1": {
+    "regret": 168.87766360695045,
+    "comparator_norm": 0.1,
+    "bound_sqrt_d": 15.811388300841898,
+    "bound_sqrt_log": 2.1830045786063406,
+    "conjecture_bound": 15.811388300841898
+  },
+  "0.215": {
+    "regret": 167.80645590594057,
+    "comparator_norm": 0.215,
+    "bound_sqrt_d": 33.99448484681008,
+    "bound_sqrt_log": 6.708965996982642,
+    "conjecture_bound": 33.99448484681008
+  },
+  "0.464": {
+    "regret": 165.4870583620148,
+    "comparator_norm": 0.464,
+    "bound_sqrt_d": 73.36484171590641,
+    "bound_sqrt_log": 20.25646765553046,
+    "conjecture_bound": 73.36484171590641
+  },
+  "1.0": {
+    "regret": 160.49429899035144,
+    "comparator_norm": 1.0,
+    "bound_sqrt_d": 158.11388300841898,
+    "bound_sqrt_log": 58.870501125773735,
+    "conjecture_bound": 158.11388300841898
+  },
+  "2.154": {
+    "regret": 149.74496258195686,
+    "comparator_norm": 2.154,
+    "bound_sqrt_d": 340.57730400013446,
+    "bound_sqrt_log": 163.24076519250306,
+    "conjecture_bound": 340.57730400013446
+  },
+  "4.642": {
+    "regret": 126.56961684184749,
+    "comparator_norm": 4.642,
+    "bound_sqrt_d": 733.964644925081,
+    "bound_sqrt_log": 431.76072877811674,
+    "conjecture_bound": 733.964644925081
+  },
+  "10.0": {
+    "regret": 76.66065282436195,
+    "comparator_norm": 10.0,
+    "bound_sqrt_d": 1581.1388300841897,
+    "bound_sqrt_log": 1094.9646735850363,
+    "conjecture_bound": 1581.1388300841897
+  },
+  "21.54": {
+    "regret": -30.832711259586006,
+    "comparator_norm": 21.54,
+    "bound_sqrt_d": 3405.7730400013447,
+    "bound_sqrt_log": 2688.314328456544,
+    "conjecture_bound": 3405.7730400013447
+  },
+  "46.42": {
+    "regret": -262.58616866067865,
+    "comparator_norm": 46.42,
+    "bound_sqrt_d": 7339.646449250809,
+    "bound_sqrt_log": 6448.073926871531,
+    "conjecture_bound": 7339.646449250809
+  },
+  "100.0": {
+    "regret": -761.6758088355409,
+    "comparator_norm": 100.0,
+    "bound_sqrt_d": 15811.388300841898,
+    "bound_sqrt_log": 15190.655872675907,
+    "conjecture_bound": 15811.388300841898
+  }
+}
